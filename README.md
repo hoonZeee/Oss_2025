@@ -11,6 +11,6 @@ __bold__<br>
 _italics_<br>
 ~~cancel~~<br>
 
-$ E = mc^2  $
+$E = mc^2$
 
 
