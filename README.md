@@ -2,11 +2,11 @@
 Welcome
 good lecture
 
-#header1
-##header2
-###header3
+# header1
+## header2
+### header3
 
-**hello**
-__bold__
-_italics_
-~~cancel~~
+**hello**<br>
+__bold__<br>
+_italics_<br>
+~~cancel~~<br>
