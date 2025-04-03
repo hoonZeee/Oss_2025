@@ -15,6 +15,3 @@ $E = mc^2$
 <https://github.com/hoonZeee>
 
 
-# 2025 
--헌금하기
--기독교 십일조
