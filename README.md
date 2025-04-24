@@ -14,8 +14,7 @@ _italics_<br>
 ~~cancel~~<br>
 
 $E = mc^2$
-
-
+$$\sqrt(k)$$
 
 <https://github.com/hoonZeee>
 
